@@ -1,0 +1,619 @@
+Name,Category,Language,Subscribers (Millions)
+
+# ================= HINDI =================
+
+T-Series,Music,Hindi,250
+Zee Music Company,Music,Hindi,95
+Sony Music India,Music,Hindi,60
+Wave Music,Music,Hindi,45
+Aditya Music,Music,Hindi,40
+
+Khan Academy Hindi,Education,Hindi,8
+Unacademy,Education,Hindi,15
+BYJUS,Education,Hindi,12
+Physics Wallah,Education,Hindi,20
+Vedantu,Education,Hindi,10
+
+CarryMinati,Entertainment,Hindi,40
+BB Ki Vines,Entertainment,Hindi,26
+Ashish Chanchlani,Entertainment,Hindi,30
+Round2hell,Entertainment,Hindi,32
+Triggered Insaan,Entertainment,Hindi,22
+
+Total Gaming,Gaming,Hindi,38
+Techno Gamerz,Gaming,Hindi,35
+CarryisLive,Gaming,Hindi,12
+Mortal,Gaming,Hindi,7
+Scout,Gaming,Hindi,6
+
+Aaj Tak,News,Hindi,65
+NDTV India,News,Hindi,12
+Zee News,News,Hindi,18
+ABP News,News,Hindi,20
+India TV,News,Hindi,15
+
+Star Sports India,Sports,Hindi,20
+Sony Sports India,Sports,Hindi,15
+Sports Tak,Sports,Hindi,10
+Cricket Addictor,Sports,Hindi,8
+Khel Now,Sports,Hindi,6
+
+YRF,Film,Hindi,60
+Dharma Productions,Film,Hindi,12
+Red Chillies Entertainment,Film,Hindi,10
+T-Series Films,Film,Hindi,25
+Pen Movies,Film,Hindi,18
+
+# ================= ENGLISH =================
+
+MrBeast,Music,English,300
+Marshmello,Music,English,55
+Ed Sheeran,Music,English,53
+Ariana Grande,Music,English,52
+Taylor Swift,Music,English,50
+
+Khan Academy,Education,English,8
+Coursera,Education,English,6
+MIT OpenCourseWare,Education,English,5
+CrashCourse,Education,English,14
+edX,Education,English,4
+
+MrBeast,Entertainment,English,300
+Dude Perfect,Entertainment,English,60
+Mark Rober,Entertainment,English,25
+Sidemen,Entertainment,English,20
+Ryan Trahan,Entertainment,English,15
+
+Dream,Gaming,English,30
+DanTDM,Gaming,English,28
+SSSniperWolf,Gaming,English,34
+VanossGaming,Gaming,English,25
+Ninja,Gaming,English,24
+
+BBC News,News,English,15
+CNN,News,English,17
+Fox News,News,English,20
+Al Jazeera English,News,English,12
+Sky News,News,English,10
+
+ESPN,Sports,English,12
+FIFA,Sports,English,18
+NBA,Sports,English,22
+WWE,Sports,English,95
+Olympics,Sports,English,11
+
+Warner Bros,Film,English,45
+Marvel,Film,English,20
+Disney,Film,English,30
+Universal Pictures,Film,English,25
+Paramount Pictures,Film,English,18
+
+# ================= TAMIL =================
+
+Think Music India,Music,Tamil,20
+Sony Music South,Music,Tamil,18
+Lahari Music,Music,Tamil,15
+Aditya Music Tamil,Music,Tamil,14
+Saregama Tamil,Music,Tamil,12
+
+Unacademy Tamil,Education,Tamil,6
+BYJUS Tamil,Education,Tamil,5
+Vedantu Tamil,Education,Tamil,4
+Physics Wallah Tamil,Education,Tamil,7
+Exam Fear Tamil,Education,Tamil,3
+
+Black Sheep,Entertainment,Tamil,20
+Behindwoods,Entertainment,Tamil,30
+Galatta,Entertainment,Tamil,25
+Vijay TV,Entertainment,Tamil,35
+Sun TV,Entertainment,Tamil,40
+
+Tamil Gaming, Gaming,Tamil,8
+Madras Gamer,Gaming,Tamil,7
+Chennai Gaming,Gaming,Tamil,6
+Tamil Play,Gaming,Tamil,5
+Gaming Tamizhan,Gaming,Tamil,4
+
+Thanthi TV,News,Tamil,12
+Sun News,News,Tamil,10
+News7 Tamil,News,Tamil,8
+Polimer News,News,Tamil,7
+Puthiya Thalaimurai,News,Tamil,9
+
+Star Sports Tamil,Sports,Tamil,10
+Sony Sports Tamil,Sports,Tamil,8
+Tamil Cricket,Sports,Tamil,7
+Sports Tamil,Sports,Tamil,6
+Game Tamil,Sports,Tamil,5
+
+Lyca Productions,Film,Tamil,8
+Sun Pictures,Film,Tamil,12
+AGS Entertainment,Film,Tamil,6
+Studio Green,Film,Tamil,5
+Dream Warrior Pictures,Film,Tamil,4
+
+# ================= TELUGU =================
+
+Aditya Music Telugu,Music,Telugu,35
+Lahari Telugu,Music,Telugu,20
+Sony Music Telugu,Music,Telugu,18
+Saregama Telugu,Music,Telugu,15
+Tips Telugu,Music,Telugu,12
+
+Unacademy Telugu,Education,Telugu,6
+BYJUS Telugu,Education,Telugu,5
+Vedantu Telugu,Education,Telugu,4
+Physics Wallah Telugu,Education,Telugu,7
+Exam Fear Telugu,Education,Telugu,3
+
+TeluguOne,Entertainment,Telugu,25
+ETV Telugu,Entertainment,Telugu,30
+Maa TV,Entertainment,Telugu,28
+TV9 Telugu,Entertainment,Telugu,20
+Tollywood Channel,Entertainment,Telugu,18
+
+Telugu Gaming,Gaming,Telugu,10
+Andhra Gamer,Gaming,Telugu,8
+Hyderabad Gaming,Gaming,Telugu,7
+Telugu Plays,Gaming,Telugu,6
+Game Telugu,Gaming,Telugu,5
+
+TV9 Telugu,News,Telugu,20
+NTV Telugu,News,Telugu,15
+ABN Telugu,News,Telugu,12
+Sakshi TV,News,Telugu,10
+ETV News,News,Telugu,9
+
+Star Sports Telugu,Sports,Telugu,10
+Sony Sports Telugu,Sports,Telugu,8
+Telugu Cricket,Sports,Telugu,7
+Sports Telugu,Sports,Telugu,6
+Game Telugu,Sports,Telugu,5
+
+Geetha Arts,Film,Telugu,12
+Mythri Movie Makers,Film,Telugu,10
+DVV Entertainment,Film,Telugu,9
+Haarika & Hassine,Film,Telugu,8
+Sitara Entertainments,Film,Telugu,7
+
+
+# ===== KOREAN =====
+
+SMTOWN,Music,Korean,32
+JYP Entertainment,Music,Korean,28
+HYBE LABELS,Music,Korean,70
+YG Entertainment,Music,Korean,25
+Stone Music,Music,Korean,20
+
+Korean Academy,Education,Korean,6
+Seoul Learning,Education,Korean,5
+Korea EduTV,Education,Korean,4
+Study Korea,Education,Korean,3
+Edu Seoul,Education,Korean,2
+
+1MILLION Dance Studio,Entertainment,Korean,26
+Korean Variety,Entertainment,Korean,18
+KBS World,Entertainment,Korean,20
+SBS NOW,Entertainment,Korean,15
+MBC World,Entertainment,Korean,17
+
+Korean Gamer,Gaming,Korean,12
+Seoul Gaming,Gaming,Korean,10
+KGame TV,Gaming,Korean,9
+Korea Plays,Gaming,Korean,8
+Game Korea,Gaming,Korean,7
+
+YTN News,News,Korean,10
+KBS News,News,Korean,12
+SBS News,News,Korean,11
+MBC News,News,Korean,9
+Arirang News,News,Korean,8
+
+SPOTV,Sports,Korean,10
+Korea Sports,Sports,Korean,9
+K-League,Sports,Korean,8
+KBO League,Sports,Korean,7
+Sports Seoul,Sports,Korean,6
+
+CJ ENM,Film,Korean,15
+Lotte Entertainment,Film,Korean,10
+Showbox,Film,Korean,8
+Next Entertainment World,Film,Korean,7
+Megabox Plus M,Film,Korean,6
+
+# ===== SPANISH =====
+
+Bad Bunny,Music,Spanish,50
+J Balvin,Music,Spanish,45
+Maluma,Music,Spanish,40
+Ozuna,Music,Spanish,42
+Karol G,Music,Spanish,38
+
+Platzi,Education,Spanish,5
+Khan Academy Español,Education,Spanish,6
+Aprende,Education,Spanish,4
+EduLatam,Education,Spanish,3
+Clase Online,Education,Spanish,2
+
+HolaSoyGerman,Entertainment,Spanish,45
+ElRubiusOMG,Entertainment,Spanish,40
+Luisito Comunica,Entertainment,Spanish,43
+AuronPlay,Entertainment,Spanish,35
+Ibai,Entertainment,Spanish,30
+
+Vegetta777,Gaming,Spanish,33
+Willyrex,Gaming,Spanish,32
+TheGrefg,Gaming,Spanish,28
+ElRubius,Gaming,Spanish,40
+Alexby,Gaming,Spanish,15
+
+Telemundo,News,Spanish,12
+Univision,News,Spanish,14
+RTVE Noticias,News,Spanish,10
+CNN Español,News,Spanish,11
+Noticias Caracol,News,Spanish,9
+
+LaLiga,Sports,Spanish,18
+Marca,Sports,Spanish,12
+ESPN Deportes,Sports,Spanish,15
+Futbol Club,Sports,Spanish,10
+Deportes TV,Sports,Spanish,8
+
+Televisa,Film,Spanish,20
+Warner Latino,Film,Spanish,15
+Sony Latino,Film,Spanish,12
+Cine Latino,Film,Spanish,10
+Peliculas HD,Film,Spanish,8
+
+# ===== PORTUGUESE =====
+
+KondZilla,Music,Portuguese,65
+Anitta,Music,Portuguese,20
+Luisa Sonza,Music,Portuguese,15
+Gusttavo Lima,Music,Portuguese,18
+Luan Santana,Music,Portuguese,17
+
+Me Salva,Education,Portuguese,5
+Descomplica,Education,Portuguese,6
+Khan Academy PT,Education,Portuguese,4
+Edu Brasil,Education,Portuguese,3
+Aula Livre,Education,Portuguese,2
+
+Whindersson Nunes,Entertainment,Portuguese,45
+Felipe Neto,Entertainment,Portuguese,44
+Porta dos Fundos,Entertainment,Portuguese,35
+Canal KondZilla,Entertainment,Portuguese,60
+Rezende Evil,Entertainment,Portuguese,20
+
+Nobru,Gaming,Portuguese,15
+LOUD,Gaming,Portuguese,25
+BR Gaming,Gaming,Portuguese,12
+FreeFire Brasil,Gaming,Portuguese,18
+Canal Games,Gaming,Portuguese,10
+
+Globo News,News,Portuguese,12
+Record News,News,Portuguese,10
+Band News,News,Portuguese,9
+CNN Brasil,News,Portuguese,11
+Noticias BR,News,Portuguese,8
+
+ESPN Brasil,Sports,Portuguese,14
+Globo Esporte,Sports,Portuguese,13
+Futebol BR,Sports,Portuguese,12
+Sports Brasil,Sports,Portuguese,10
+Arena Brasil,Sports,Portuguese,9
+
+Globo Filmes,Film,Portuguese,20
+Paris Filmes,Film,Portuguese,15
+Downtown Filmes,Film,Portuguese,12
+Cine Brasil,Film,Portuguese,10
+Filmes HD BR,Film,Portuguese,8
+
+# ===== MALAYALAM =====
+
+Muzik247,Music,Malayalam,15
+Millennium Audios,Music,Malayalam,12
+Satyam Audios,Music,Malayalam,10
+Manorama Music,Music,Malayalam,9
+East Coast,Music,Malayalam,8
+
+Unacademy Malayalam,Education,Malayalam,4
+BYJUS Malayalam,Education,Malayalam,3
+Vedantu Malayalam,Education,Malayalam,2
+PW Malayalam,Education,Malayalam,3
+Edu Kerala,Education,Malayalam,2
+
+Karikku,Entertainment,Malayalam,18
+Flowers TV,Entertainment,Malayalam,20
+Asianet,Entertainment,Malayalam,22
+Mazhavil Manorama,Entertainment,Malayalam,15
+Safari TV,Entertainment,Malayalam,12
+
+Malayalam Gaming,Gaming,Malayalam,5
+Kerala Gamer,Gaming,Malayalam,4
+Game Kerala,Gaming,Malayalam,3
+Play Malayalam,Gaming,Malayalam,3
+Gaming Mollywood,Gaming,Malayalam,2
+
+Asianet News,News,Malayalam,10
+Manorama News,News,Malayalam,9
+Mathrubhumi News,News,Malayalam,8
+Reporter TV,News,Malayalam,7
+24 News,News,Malayalam,6
+
+Star Sports Malayalam,Sports,Malayalam,6
+Sony Sports Malayalam,Sports,Malayalam,5
+Kerala Blasters,Sports,Malayalam,7
+Sports Kerala,Sports,Malayalam,4
+Game Kerala,Sports,Malayalam,3
+
+Aashirvad Cinemas,Film,Malayalam,10
+Friday Film House,Film,Malayalam,8
+August Cinema,Film,Malayalam,7
+Central Pictures,Film,Malayalam,6
+Mollywood Studio,Film,Malayalam,5
+
+# ===== KANNADA =====
+
+Lahari Music Kannada,Music,Kannada,20
+Anand Audio,Music,Kannada,18
+PRK Audio,Music,Kannada,15
+Ashwini Media,Music,Kannada,12
+DBeats Music,Music,Kannada,10
+
+Unacademy Kannada,Education,Kannada,4
+BYJUS Kannada,Education,Kannada,3
+Vedantu Kannada,Education,Kannada,2
+PW Kannada,Education,Kannada,3
+Edu Karnataka,Education,Kannada,2
+
+TV9 Kannada,Entertainment,Kannada,20
+Public TV,Entertainment,Kannada,18
+Colors Kannada,Entertainment,Kannada,22
+Udaya TV,Entertainment,Kannada,15
+Zee Kannada,Entertainment,Kannada,17
+
+Kannada Gaming,Gaming,Kannada,6
+Bangalore Gamer,Gaming,Kannada,5
+Game Kannada,Gaming,Kannada,4
+Play Karnataka,Gaming,Kannada,3
+Gaming Kannada,Gaming,Kannada,3
+
+TV9 Kannada,News,Kannada,20
+Public News,News,Kannada,15
+Suvarna News,News,Kannada,12
+News18 Kannada,News,Kannada,10
+BTV News,News,Kannada,9
+
+Star Sports Kannada,Sports,Kannada,7
+Sony Sports Kannada,Sports,Kannada,6
+RCB,Sports,Kannada,10
+Sports Karnataka,Sports,Kannada,5
+Game Kannada,Sports,Kannada,4
+
+Hombale Films,Film,Kannada,15
+PRK Productions,Film,Kannada,10
+KRG Studios,Film,Kannada,8
+Jayanna Films,Film,Kannada,7
+Sri Krishna Arts,Film,Kannada,6
+
+# ===== GERMAN =====
+
+RAF Camora,Music,German,10
+Capital Bra,Music,German,12
+Apache 207,Music,German,9
+Sido,Music,German,8
+Bushido,Music,German,7
+
+SimpleClub,Education,German,8
+Khan Academy DE,Education,German,5
+Study German,Education,German,4
+Edu Berlin,Education,German,3
+Learn DE,Education,German,2
+
+Kurzgesagt,Entertainment,German,22
+Paluten,Entertainment,German,18
+Gronkh,Entertainment,German,20
+Rezo,Entertainment,German,15
+Dner,Entertainment,German,12
+
+Gronkh Gaming,Gaming,German,20
+GermanLetsPlay,Gaming,German,18
+Paluten Gaming,Gaming,German,16
+Zombey,Gaming,German,14
+GLP,Gaming,German,13
+
+Tagesschau,News,German,15
+DW News,News,German,12
+ZDF Heute,News,German,11
+RTL News,News,German,10
+N24,News,German,9
+
+Bundesliga,Sports,German,20
+DAZN DE,Sports,German,15
+Sky Sport DE,Sports,German,14
+Sport1,Sports,German,12
+Kicker,Sports,German,10
+
+Constantin Film,Film,German,12
+Studio Babelsberg,Film,German,10
+UFA,Film,German,8
+Leonine Studios,Film,German,7
+Film DE,Film,German,6
+
+# ===== ITALIAN =====
+
+Fedez,Music,Italian,10
+Sfera Ebbasta,Music,Italian,12
+Marracash,Music,Italian,9
+Laura Pausini,Music,Italian,8
+Eros Ramazzotti,Music,Italian,7
+
+Khan Academy IT,Education,Italian,5
+Edu Italia,Education,Italian,4
+Study IT,Education,Italian,3
+Learn Italy,Education,Italian,2
+Italian School,Education,Italian,2
+
+Favij,Entertainment,Italian,20
+Zeb89,Entertainment,Italian,15
+iPantellas,Entertainment,Italian,12
+TheShow,Entertainment,Italian,10
+Scottecs,Entertainment,Italian,9
+
+Favij Gaming,Gaming,Italian,20
+Zeb89 Gaming,Gaming,Italian,15
+Italian Gamer,Gaming,Italian,10
+Game Italy,Gaming,Italian,8
+Play Italia,Gaming,Italian,7
+
+RAI News,News,Italian,12
+Sky TG24,News,Italian,10
+TG5,News,Italian,9
+La7 News,News,Italian,8
+Euronews IT,News,Italian,7
+
+Serie A,Sports,Italian,18
+Sky Sport IT,Sports,Italian,14
+DAZN IT,Sports,Italian,12
+Sport Mediaset,Sports,Italian,10
+Calcio TV,Sports,Italian,9
+
+Cinecitta,Film,Italian,12
+Rai Cinema,Film,Italian,10
+Medusa Film,Film,Italian,8
+Film Italia,Film,Italian,7
+Cinema IT,Film,Italian,6
+
+# ===== ARABIC =====
+
+Rotana,Music,Arabic,20
+Mazzika,Music,Arabic,15
+Arab Music,Music,Arabic,12
+Music Arabia,Music,Arabic,10
+Rotana Classic,Music,Arabic,9
+
+Nafham,Education,Arabic,5
+Edraak,Education,Arabic,6
+Khan Academy AR,Education,Arabic,4
+Arab Edu,Education,Arabic,3
+Study Arabic,Education,Arabic,2
+
+Noor Stars,Entertainment,Arabic,20
+AboFlah,Entertainment,Arabic,35
+Arab Vlogs,Entertainment,Arabic,15
+Arab Fun,Entertainment,Arabic,12
+Arab TV,Entertainment,Arabic,10
+
+Arab Gaming,Gaming,Arabic,12
+AboFlah Gaming,Gaming,Arabic,35
+Game Arabia,Gaming,Arabic,10
+Play Arab,Gaming,Arabic,8
+Gaming AR,Gaming,Arabic,7
+
+Al Jazeera Arabic,News,Arabic,25
+Al Arabiya,News,Arabic,20
+Sky News Arabia,News,Arabic,15
+BBC Arabic,News,Arabic,12
+Arab News,News,Arabic,10
+
+beIN Sports,Sports,Arabic,20
+Arab Sports,Sports,Arabic,12
+Sports Arabia,Sports,Arabic,10
+Game Arab,Sports,Arabic,8
+Kora TV,Sports,Arabic,9
+
+Rotana Films,Film,Arabic,12
+Arab Cinema,Film,Arabic,10
+Film Arabia,Film,Arabic,8
+Cinema AR,Film,Arabic,7
+Movies Arab,Film,Arabic,6
+
+# ===== PUNJABI =====
+
+Speed Records,Music,Punjabi,45
+White Hill Music,Music,Punjabi,35
+T-Series Apna Punjab,Music,Punjabi,30
+Jass Records,Music,Punjabi,25
+Lokdhun Punjabi,Music,Punjabi,20
+
+Unacademy Punjabi,Education,Punjabi,4
+BYJUS Punjabi,Education,Punjabi,3
+Edu Punjab,Education,Punjabi,2
+Study Punjabi,Education,Punjabi,2
+Learn Punjab,Education,Punjabi,1
+
+Punjabi Vlogs,Entertainment,Punjabi,15
+Babbal Rai,Entertainment,Punjabi,12
+Amit Bhadana Punjabi,Entertainment,Punjabi,10
+Punjabi Comedy,Entertainment,Punjabi,9
+Fun Punjab,Entertainment,Punjabi,8
+
+Punjabi Gaming,Gaming,Punjabi,6
+Punjab Gamer,Gaming,Punjabi,5
+Game Punjab,Gaming,Punjabi,4
+Play Punjabi,Gaming,Punjabi,3
+Gaming PB,Gaming,Punjabi,3
+
+PTC News,News,Punjabi,10
+ABP Sanjha,News,Punjabi,8
+Punjab News,News,Punjabi,7
+News Punjab,News,Punjabi,6
+TV Punjab,News,Punjabi,5
+
+Punjab Sports,Sports,Punjabi,6
+Kabaddi TV,Sports,Punjabi,7
+Sports Punjab,Sports,Punjabi,5
+Game Punjab,Sports,Punjabi,4
+Play Punjab,Sports,Punjabi,3
+
+Punjabi Films,Film,Punjabi,10
+White Hill Films,Film,Punjabi,8
+Speed Films,Film,Punjabi,7
+Film Punjab,Film,Punjabi,6
+Cinema Punjab,Film,Punjabi,5
+
+# ===== JAPANESE =====
+
+Avex,Music,Japanese,20
+Sony Music Japan,Music,Japanese,18
+TOY'S FACTORY,Music,Japanese,15
+King Records,Music,Japanese,12
+Universal Music JP,Music,Japanese,10
+
+Khan Academy JP,Education,Japanese,5
+Study Japan,Education,Japanese,4
+Edu Japan,Education,Japanese,3
+Learn JP,Education,Japanese,2
+Japan School,Education,Japanese,2
+
+HikakinTV,Entertainment,Japanese,25
+Fischer's,Entertainment,Japanese,20
+Hajime,Entertainment,Japanese,18
+SeikinTV,Entertainment,Japanese,15
+PDRsan,Entertainment,Japanese,12
+
+Japanese Gaming,Gaming,Japanese,15
+Hikakin Games,Gaming,Japanese,20
+Game Japan,Gaming,Japanese,12
+Play JP,Gaming,Japanese,10
+Gaming Japan,Gaming,Japanese,9
+
+NHK News,News,Japanese,15
+ANN News,News,Japanese,12
+TBS News,News,Japanese,11
+FNN News,News,Japanese,10
+Japan News,News,Japanese,9
+
+J League,Sports,Japanese,12
+NHK Sports,Sports,Japanese,10
+Sports JP,Sports,Japanese,9
+Game JP,Sports,Japanese,8
+Play Japan,Sports,Japanese,7
+
+Toho,Film,Japanese,15
+Toei Animation,Film,Japanese,14
+Shochiku,Film,Japanese,12
+Kadokawa,Film,Japanese,10
+Nikkatsu,Film,Japanese,9
+

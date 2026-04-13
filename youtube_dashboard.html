@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>YouTube_Dashboard</title>
+
+<!-- Chart.js -->
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+
+<style>
+body {
+  margin:0;
+  font-family: Arial;
+  background:#0f0f0f;
+  color:#fff;
+}
+
+.header {
+  background:#111;
+  padding:20px;
+  border-bottom:2px solid red;
+}
+
+h1 { color:red; }
+
+.container { padding:20px; }
+
+.kpis {
+  display:grid;
+  grid-template-columns:repeat(4,1fr);
+  gap:15px;
+  margin-bottom:20px;
+}
+
+.card {
+  background:#1a1a1a;
+  padding:20px;
+  border-radius:10px;
+  text-align:center;
+}
+
+.chart-box {
+  background:#1a1a1a;
+  padding:20px;
+  margin-bottom:20px;
+  border-radius:10px;
+}
+
+input {
+  width:100%;
+  padding:10px;
+  margin-bottom:10px;
+  background:#111;
+  border:1px solid #333;
+  color:white;
+}
+
+table {
+  width:100%;
+  border-collapse:collapse;
+}
+
+th, td {
+  padding:10px;
+  border-bottom:1px solid #333;
+}
+
+tr:hover { background:#222; }
+</style>
+</head>
+
+<body>
+
+<div class="header">
+  <h1>YouTube Top Channels Dashboard</h1>
+</div>
+
+<div class="container">
+
+<!-- KPI -->
+<div class="kpis">
+  <div class="card">Total Channels<br><h2>50</h2></div>
+  <div class="card">Total Subscribers<br><h2>3810M</h2></div>
+  <div class="card">Top Channel<br><h2>T-Series</h2></div>
+  <div class="card">Top Subs<br><h2>249M</h2></div>
+</div>
+
+<!-- Chart -->
+<div class="chart-box">
+  <canvas id="topChart"></canvas>
+</div>
+
+<!-- Search -->
+<input type="text" id="search" placeholder="Search channel..." onkeyup="filterTable()">
+
+<!-- Table -->
+<table id="table">
+<thead>
+<tr>
+<th>Rank</th>
+<th>Name</th>
+<th>Subscribers</th>
+</tr>
+</thead>
+
+<tbody>
+<tr><td>1</td><td>T-Series</td><td>249M</td></tr>
+<tr><td>2</td><td>MrBeast</td><td>184M</td></tr>
+<tr><td>3</td><td>Cocomelon</td><td>165M</td></tr>
+<tr><td>4</td><td>Sony TV</td><td>162M</td></tr>
+<tr><td>5</td><td>PewDiePie</td><td>111M</td></tr>
+</tbody>
+</table>
+
+</div>
+
+<script>
+
+// Chart
+new Chart(document.getElementById("topChart"), {
+  type: 'bar',
+  data: {
+    labels: ["T-Series","MrBeast","Cocomelon","Sony TV","PewDiePie"],
+    datasets: [{
+      label: "Subscribers (Millions)",
+      data: [249,184,165,162,111],
+      backgroundColor: "red"
+    }]
+  }
+});
+
+// Search
+function filterTable(){
+  let input = document.getElementById("search").value.toLowerCase();
+  let rows = document.querySelectorAll("#table tbody tr");
+
+  rows.forEach(row => {
+    row.style.display = row.textContent.toLowerCase().includes(input) ? "" : "none";
+  });
+}
+
+</script>
+
+</body>
+</html>
